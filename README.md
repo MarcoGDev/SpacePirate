@@ -16,6 +16,7 @@
     <li><a href="#Getting-started">Getting started</a></li>
     <li><a href="#Prerequisites">Prerequisites</a></li>
         <li><a href="#Built-With">Built-With</a></li>
+    <li><a href="#How-to-Play">Getting started</a></li>
   </ol>
 </details>
 
@@ -26,7 +27,10 @@
 Een Java game gebasseerd op het klassieke spel Space Invader. 
 
 ## Getting started
-Download de repository en import hem in [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+Download de repository en import hem in [IntelliJ IDEA](https://www.jetbrains.com/idea/), run de code in de compiler.
+
+## How to Play
+Ontwijk de aliens met de WASD knoppen, schiet de aliens kapot met rakketen via de spacebar en vernietig alle aliens zonder zelf aangeraakt te worden om het spel te winnen.
 
 ## To-Do  
   
