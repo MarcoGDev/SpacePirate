@@ -14,9 +14,11 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#Getting-started">Getting started</a></li>
+    <li><a href="#How-to-Play">How to Play</a></li>
+    <li><a href="#To-Do">To Do</a></li>
     <li><a href="#Prerequisites">Prerequisites</a></li>
         <li><a href="#Built-With">Built-With</a></li>
-    <li><a href="#How-to-Play">Getting started</a></li>
+    
   </ol>
 </details>
 
