@@ -16,7 +16,7 @@ public class MouseInputMenu implements MouseListener  {
 
 
 
-    private final String helpPageURL  = "http://www.google.com"; //Aanvullen met Github page link
+    private final String helpPageURL  = "https://github.com/MarcoGDev/SpacePirate"; //Aanvullen met Github page link
 
 
     private static final int SCREENSIZE_WIDTH = 400;
@@ -73,10 +73,7 @@ public class MouseInputMenu implements MouseListener  {
                 System.exit(1);
             }
         }
-
-        //audio button
-
-        }
+}
 
 
 
