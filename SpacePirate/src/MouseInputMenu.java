@@ -16,7 +16,7 @@ public class MouseInputMenu implements MouseListener  {
 
 
 
-    private final String helpPageURL  = "https://github.com/MarcoGDev/SpacePirate"; //Aanvullen met Github page link
+    private final String helpPageURL  = "https://github.com/MarcoGDev/SpacePirate";
 
 
     private static final int SCREENSIZE_WIDTH = 400;
