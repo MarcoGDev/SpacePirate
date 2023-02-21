@@ -76,10 +76,6 @@ public class MouseInputMenu implements MouseListener  {
 }
 
 
-
-
-
-
     @Override
     public void mouseReleased(MouseEvent mouseEvent) {
 
@@ -92,6 +88,5 @@ public class MouseInputMenu implements MouseListener  {
 
     @Override
     public void mouseExited(MouseEvent mouseEvent) {
-
     }
 }
