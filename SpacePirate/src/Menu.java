@@ -41,7 +41,4 @@ class Menu {
 //        g.drawString("Sound", soundButton.x + 5, soundButton.y + 30);
 //           g2d.draw(soundButton);
     }
-
-
-
 }
